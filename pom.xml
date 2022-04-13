@@ -5,8 +5,8 @@
 	<artifactId>javafx-background-music</artifactId>
 	<version>0.0.1</version>
 
-	<name>javafx-background-music</name>
-	<description>javafx-background-music</description>
+	<name>JavaFX Background Music</name>
+	<description>Add background music to your javafx apps and games</description>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
