@@ -18,7 +18,7 @@ public class MainController {
     @FXML
     void initialize() {
         
-    	String path = getClass().getResource("/musics/02-paranoid.mp3").getFile();  
+    	String path = getClass().getClassLoader().getResource("musics/02-paranoid.mp3").getFile();  
         
         //Instantiating Media class  
         Media media = new Media(new File(path).toURI().toString());  
