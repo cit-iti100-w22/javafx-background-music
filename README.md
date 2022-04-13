@@ -32,7 +32,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 I open-source almost everything I can, and I try to reply to everyone needing help using these projects. Obviously, this takes time. You can integrate and use these projects in your applications for free! You can even change the source code and redistribute (even resell it).
 
-<br/>
-<br/>
 Thanks! ❤️
 
