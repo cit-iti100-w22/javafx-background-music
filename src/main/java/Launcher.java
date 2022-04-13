@@ -22,7 +22,7 @@ public class Launcher extends Application {
 
         Scene scene = new Scene(root);
 
-        primaryStage.setTitle("javafx-background-music");
+        primaryStage.setTitle("JavaFX Background Music");
         primaryStage.setMinHeight(480);
         primaryStage.setMinWidth(640);
         primaryStage.setScene(scene);
