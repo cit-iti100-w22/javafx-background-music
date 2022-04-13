@@ -12,7 +12,7 @@ Add background music to your javafx apps and games
 
 ## Questions or Suggestions
 
-Feel free to create <a href="https://github.com/thiagodnf/color-palettes/issues">issues</a> here as you need
+Feel free to create <a href="/issues">issues</a> here as you need
 
 ## Contribute
 
