@@ -10,7 +10,7 @@ Add background music to your javafx apps and games
 
 ## Screenshot
 
-![Screenshot 2022-04-13 200030](https://user-images.githubusercontent.com/98138701/163288793-c467e242-c293-458a-83cf-85c98b12c018.png)
+<img src="https://user-images.githubusercontent.com/98138701/163288793-c467e242-c293-458a-83cf-85c98b12c018.png" width="200px"/>
 
 ## Questions or Suggestions
 
